@@ -48,6 +48,7 @@
 ----
 
 **<개발 세부 내용>**
+----
 
 1. 데이터 수집 및 저장
 
@@ -133,7 +134,7 @@
 
 **4. 구현 결과**
 
-<홈 화면>
+**<홈 화면>**
 
 <img width="647" height="301" alt="image" src="https://github.com/user-attachments/assets/313deaa6-3b6a-4489-a645-e81c374a065c" /> 
 
@@ -142,7 +143,7 @@
 
 
 
-<예측 탭>
+**<예측 탭>**
 
 <img width="425" height="296" alt="image" src="https://github.com/user-attachments/assets/f1107c90-0b1c-4759-9a20-46903058d6a5" /> 
 
@@ -152,7 +153,7 @@
 
 
 
-<추천탭>
+**<추천탭>**
 
 <img width="290" height="291" alt="image" src="https://github.com/user-attachments/assets/0de55bfe-e056-4c28-8726-7f8f51ae5a56" /> 
 
@@ -162,7 +163,7 @@
 
 
 
-<즐겨찾기>
+**<즐겨찾기>**
 
 <img width="297" height="294" alt="image" src="https://github.com/user-attachments/assets/c67a0f43-7d1f-4d7d-aee1-283401cbadec" />
 
@@ -172,7 +173,7 @@
 
 
 
-<로그인/ 회원가입>
+**<로그인/ 회원가입>**
 
 <img width="302" height="297" alt="image" src="https://github.com/user-attachments/assets/9b615bbc-03d1-42d5-a59a-1c5d0efbc293" /> 
 
