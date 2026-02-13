@@ -45,7 +45,7 @@
 <img width="427" height="336" alt="image" src="https://github.com/user-attachments/assets/a1e6870a-ac6d-4910-adc2-b2acd7da0018" />
 
 
-
+----
 
 **<개발 세부 내용>**
 
@@ -129,7 +129,7 @@
 
 ∙ Android 앱은 release.keystore로 서명된 .apk 파일로 빌드하여 배포하며, Google Maps API 연동을 위해 릴리즈 키의 SHA-1 인증서를 등록함.
 
-
+----
 
 **4. 구현 결과**
 
