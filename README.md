@@ -15,9 +15,14 @@
 
 
 **3. 작품 설명**
-시스템 구성도
+
+<시스템 구성도>
+
 <img width="436" height="317" alt="image" src="https://github.com/user-attachments/assets/b6d6a035-06c7-4865-8490-8a5894157e18" />
 
+<데이터 베이스>
+
+<img width="427" height="336" alt="image" src="https://github.com/user-attachments/assets/a1e6870a-ac6d-4910-adc2-b2acd7da0018" />
 
 
 3-1. 개발 세부 내용
