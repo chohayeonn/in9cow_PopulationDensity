@@ -1,2 +1,2 @@
-# in9cow_PopulationDensity
+# AI 기반 실시간 인구 밀집 모니터링 및 예측 앱(도시온도)
 종합설계 프로젝트
