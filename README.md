@@ -27,11 +27,17 @@
 <img width="436" height="317" alt="image" src="https://github.com/user-attachments/assets/b6d6a035-06c7-4865-8490-8a5894157e18" />
 
 ∙ 백엔드 서버: Spring Boot (Java)
+
 ∙ 프론트엔드(앱) : Android (Java/Groovy)
+
 ∙ 데이터베이스(DB): AWS RDS (MySQL)
+
 ∙ 실시간 혼잡도: Python, SKT Tmap API
+
 ∙ AI 예측 모델: Python, OpenAI API 활용
+
 ∙ 지도 API: Google Maps API
+
 ∙ 서버 운영: AWS EC2
 
 
