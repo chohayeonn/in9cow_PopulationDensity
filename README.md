@@ -83,6 +83,7 @@
 
 
 <로그인/ 회원가입>
+
 <img width="302" height="297" alt="image" src="https://github.com/user-attachments/assets/9b615bbc-03d1-42d5-a59a-1c5d0efbc293" /> 
 
 회원가입 시 성명, 이메일, 아이디, 비밀번호를 입력하고 로그인을 하면 마이페이지에서 로그인이 성공한 모습을 확인할 수 있다. 
