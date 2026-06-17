@@ -74,7 +74,6 @@ public class FavoriteFragment extends Fragment {
                     List<CongestionPoint> favorites = response.body();
                     adapter.setItems(favorites); // 카드 리스트 표시
 
-                    // 👉 하트 상태 유지용 Set 도 같이 설정
                     Set<String> favoriteNames = new HashSet<>();
                     for (CongestionPoint p : favorites) {
                         favoriteNames.add(p.name);
