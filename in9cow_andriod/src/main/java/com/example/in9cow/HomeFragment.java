@@ -113,7 +113,6 @@ public class HomeFragment extends Fragment {
         return view;
     }
 
-    // ✅ Retrofit 기반 혼잡도 로딩
     private void loadCongestionData() {
         apiService.getCongestionPoints().enqueue(new Callback<List<CongestionPoint>>() {
             @Override
