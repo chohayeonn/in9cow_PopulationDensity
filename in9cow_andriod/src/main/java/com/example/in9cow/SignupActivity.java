@@ -70,7 +70,7 @@ public class SignupActivity extends AppCompatActivity {
                     jsonBody,
                     response -> {
                         try {
-                            String msg = response.getString("message"); // ✅ JSON 응답 파싱
+                            String msg = response.getString("message"); //JSON 응답 파싱
                             Toast.makeText(SignupActivity.this, msg, Toast.LENGTH_SHORT).show();
                             Intent intent = new Intent(SignupActivity.this, LoginActivity.class);
                             startActivity(intent);
@@ -81,7 +81,7 @@ public class SignupActivity extends AppCompatActivity {
                         }
                     },
                     error -> {
-                        error.printStackTrace(); // ✅ 여기선 'error'가 맞음
+                        error.printStackTrace(); 
                         Toast.makeText(SignupActivity.this, "회원가입 실패: " + error.toString(), Toast.LENGTH_LONG).show();
                     }
             ) {
