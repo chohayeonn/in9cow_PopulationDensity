@@ -88,7 +88,7 @@ public class RecommendFragment extends Fragment {
         });
 
         fetchRecommendations();
-        loadFavoriteSet(); // ⭐ 하트 상태 초기화
+        loadFavoriteSet(); // 하트 상태 초기화
 
         return view;
     }
@@ -123,7 +123,7 @@ public class RecommendFragment extends Fragment {
                         for (CongestionPoint p : response.body()) {
                             favoriteNames.add(p.name);
                         }
-                        adapter.setFavoriteSet(favoriteNames); // ⭐ 하트 상태 반영
+                        adapter.setFavoriteSet(favoriteNames); // 하트 상태 반영
                     }
                 }
 
